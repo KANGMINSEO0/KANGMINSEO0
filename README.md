@@ -9,8 +9,12 @@
 </div>
 -->
 
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KANGMINSEO0)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=&theme=buefy-dark&hide_border=true&background=FFFFFF&ring=72A4E7&fire=EB5454&stroke=5CBFEB&sideNums=4AAFEB)](https://git.io/streak-stats)
+<!--
 [![GitHub Streak](https://streak-stats.demolab.com/?user=KANGMINSEO0&theme=tokyonight-duo)](https://git.io/streak-stats)
+-->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=KANGMINSEO0&theme=github&bg_color=FFFFa&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
