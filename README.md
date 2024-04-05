@@ -11,7 +11,7 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KANGMINSEO0)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=&theme=buefy-dark&hide_border=true&background=FFFFFF&ring=72A4E7&fire=EB5454&stroke=5CBFEB&sideNums=4AAFEB)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=KANGMINSEO0&theme=buefy-dark&hide_border=true&background=FFFFFF&ring=72A4E7&fire=EB5454&stroke=5CBFEB&sideNums=4AAFEB)](https://git.io/streak-stats)
 <!--
 [![GitHub Streak](https://streak-stats.demolab.com/?user=KANGMINSEO0&theme=tokyonight-duo)](https://git.io/streak-stats)
 -->
