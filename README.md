@@ -9,23 +9,6 @@
 </div>
 -->
 
-:mailbox_with_mail: KANGMINSEO0 
-<a href="mailto:juhee0629032@gmail.com">
-   <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=koala.ohgiraffers@gmail.com"/>
-</a>
-
-
-<details>
-<summary>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> Skill
-</summary>
-
-![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
-![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KANGMINSEO0)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=KANGMINSEO0&theme=buefy-dark&hide_border=false&background=FFFFFF&ring=72A4E7&fire=EB5454&stroke=5CBFEB&sideNums=4AAFEB&border=DDDDDD)](https://git.io/streak-stats)
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
