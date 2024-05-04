@@ -2,12 +2,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&width=100%&section=header&text=MINSEO&fontSize=90" />
 </div>
 
-<!--
+
 <hr>
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=helloworld&fontSize=90" />
 </div>
--->
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KANGMINSEO0)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=KANGMINSEO0&theme=buefy-dark&hide_border=false&background=FFFFFF&ring=72A4E7&fire=EB5454&stroke=5CBFEB&sideNums=4AAFEB&border=DDDDDD)](https://git.io/streak-stats)
