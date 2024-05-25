@@ -15,7 +15,7 @@
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=KANGMINSEO0&theme=github&bg_color=FFFFa&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juhee0629032@gmail.com)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KANGMINSEO0)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 참고 사이트 : https://hulrud.tistory.com/3
