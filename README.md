@@ -9,15 +9,24 @@
 </div>
 -->
 
+<div align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=KANGMINSEO0">
+    </a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KANGMINSEO0&layout=compact"><br>
+    <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=KANGMINSEO0&theme=buefy-dark&hide_border=false&background=FFFFFF&ring=72A4E7&fire=EB5454&stroke=5CBFEB&sideNums=4AAFEB&border=DDDDDD">
+    </a>
+    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=KANGMINSEO0&theme=github&bg_color=FFFFa&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
+    </a>
+</div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KANGMINSEO0)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=KANGMINSEO0&theme=buefy-dark&hide_border=false&background=FFFFFF&ring=72A4E7&fire=EB5454&stroke=5CBFEB&sideNums=4AAFEB&border=DDDDDD)](https://git.io/streak-stats)
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=KANGMINSEO0&theme=github&bg_color=FFFFa&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
-</a>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KANGMINSEO0&layout=compact"><br>
+
 <!--
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KANGMINSEO0)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KANGMINSEO0)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=KANGMINSEO0&theme=buefy-dark&hide_border=false&background=FFFFFF&ring=72A4E7&fire=EB5454&stroke=5CBFEB&sideNums=4AAFEB&border=DDDDDD)](https://git.io/streak-stats)
 -->
 <!--
 참고 사이트 : https://hulrud.tistory.com/3
