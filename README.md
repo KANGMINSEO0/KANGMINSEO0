@@ -2,12 +2,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&width=100%&section=header&text=MINSEO&fontSize=90" />
 </div>
 
-<!--
+
 <hr>
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=helloworld&fontSize=90" />
 </div>
--->
+
 
 <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
