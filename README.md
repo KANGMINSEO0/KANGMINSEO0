@@ -29,12 +29,12 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KANGMINSEO0)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=KANGMINSEO0&theme=buefy-dark&hide_border=false&background=FFFFFF&ring=72A4E7&fire=EB5454&stroke=5CBFEB&sideNums=4AAFEB&border=DDDDDD)](https://git.io/streak-stats)
 -->
-
+<!--
 참고 사이트 : https://hulrud.tistory.com/3
 
 <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.java.com/ko/"><img src="https://img.shields.io/badge/JAVA-E4405F?style=flat-square&logo=JAVA&logoColor=white"/></a>
-
+-->
 
 
 :mailbox_with_mail: KANGMINSEO0 
